@@ -1,13 +1,11 @@
-parentid,objectid,filename,youtubeid,vimeoid,title,creator,contributor,date,description,subject,location,latitude,longitude,source,idenjpgier,type,format,language,rights,rightsstatement
-,rb001,,,,Recipe Book,Nancy Smith,,,A small binder of handwritten recipes,universities;buildings;campuses;picture postcards,"Green Bay, Wisconsin",44.46231733,-88.04425213,,,record,multiple,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
-rb001,rb001a,rb001a.jpg,,,,,,,,,,,,,,Image;StillImage,image/jpeg,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
-rb001,rb001b,rb001b.jpg,,,,,,,,,,,,,,Image;StillImage,image/jpeg,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
-,rb002,rb002.jpg,,,Potato Salad,Nancy Smith,,,A recipe for potato salad,,,,,,,Image;StillImage,image/jpeg,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
-,rb003,rb003a.jpg,,,Peanut Butter Pie,Nancy Smith,,,A recipe for peanut butter pie,,,,,,,Image;StillImage,multiple,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
-rb003,rb003a,rb003a.jpg,,,,,,,,,,,,,,Image;StillImage,image/jpeg,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
-rb003,rb003b,rb003b.jpg,,,,,,,,,,,,,,Image;StillImage,image/jpeg,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
-,rb004,,,,Beef Barbecue,Nancy Smith,,,A recipe for beef barbecue,,,,,,,record,multiple,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
-rb004,rb004a,rb004a.jpg,,,,,,,,,,,,,,Image;StillImage,image/jpeg,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
-
-rb004,rb004b,rb004b.jpg,,,,,,,,,,,,,,Image;StillImage,image/jpeg,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
-
+parentid,objectid,filename,youtubeid,vimeoid,title,creator,contributor,recipetitle,servings,ingredients,instructions,notes,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+,rb001,,,,Recipe Book,Nancy Smith,,,,,,,,A small binder of handwritten recipes,universities;buildings;campuses;picture postcards,"Green Bay, Wisconsin",44.46231733,-88.04425213,,,record,multiple,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+rb001,rb001a,rb001a.tif,,,,,,,,,,,,,,,,,,,Image;StillImage,image/tif,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+rb001,rb001b,rb001b.tif,,,,,,,,,,,,,,,,,,,Image;StillImage,image/tif,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+,rb002,rb002.tif,,,Potato Salad,Nancy Smith,,Potato Salad,10,"<ul><li>5 lb. small red potatoes, boiled with skins & quartered when cool</li><li>3 or 4 stalks of celery</li><li>4 hard boiled eggs</li><li>3 or 4 small pickles</li><li>2 c. mayo</li><li>1/4 c. pickle juice</li></ul>",,,,A recipe for potato salad,,,,,,,Image;StillImage,image/tif,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+,rb003,,,,Peanut Butter Pie,Nancy Smith,,Peanut Butter Pie,8,<ul><li>3 oz. softened neufachtel cheese</li><li>1/2 c. smooth peanut butter</li><li>1 c. powdered sugar</li><li>1/2 c. milk</li><li>8 oz. frozen cool whip thawed</li><li>1 graham or choc. crust</li></ul>,"Combine Cr. cheese, PB, sugar & milk. Beat until smooth. Gently fold in whipped topping. Freeze 4-6 hrs. Thaw 10 minutes before serving. Top w/ Mrs. Richardson's Hot Fudge Sauce.",,,A recipe for peanut butter pie,,,,,,,record,multiple,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+rb003,rb003a,rb003a.tif,,,,,,,,,,,,,,,,,,,Image;StillImage,image/tif,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+rb003,rb003b,rb003b.tif,,,,,,,,,,,,,,,,,,,Image;StillImage,image/tif,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+,rb004,,,,Beef Barbecue,Nancy Smith,,Beef Barbecue,,<ul><li>4 lb. beef chuck</li><li>24 oz. bottle ketchup (2 cups)</li><li>1/2 c. vinegar</li><li>2 T. Worchestershire sauce</li><li>1 large onion</li><li>2 Bay leaves</li><2 C. water</li><li>S & P</li><li>2 T. Br. Sugar</li><li>1 T. dry mustard</li>,Simmer together several hours until meat falls apart. Serve on hamb. buns.,,,A recipe for beef barbecue,,,,,,,record,multiple,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+rb004,rb004a,rb004a.tif,,,,,,,,,,,,,,,,,,,Image;StillImage,image/tif,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+rb004,rb004b,rb004b.tif,,,,,,,,,,,,,,,,,,,Image;StillImage,image/tif,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
