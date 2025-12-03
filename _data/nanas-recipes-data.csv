@@ -1,0 +1,11 @@
+parentid,objectid,filename,youtubeid,vimeoid,title,creator,contributor,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+,rb001,,,,Recipe Book,Nancy Smith,,,A small binder of handwritten recipes,universities;buildings;campuses;picture postcards,"Green Bay, Wisconsin",44.46231733,-88.04425213,,,record,multiple,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+rb001,rb001a,rb001a.tif,,,,,,,,,,,,,,Image;StillImage,image/tif,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+rb001,rb001b,rb001b.tif,,,,,,,,,,,,,,Image;StillImage,image/tif,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+,rb002,rb002.tif,,,Potato Salad,Nancy Smith,,,A recipe for potato salad,,,,,,,Image;StillImage,image/tif,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+,rb003,,,,Peanut Butter Pie,Nancy Smith,,,A recipe for peanut butter pie,,,,,,,record,multiple,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+rb003,rb003a,rb003a.tif,,,,,,,,,,,,,,Image;StillImage,image/tif,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+rb003,rb003b,rb003b.tif,,,,,,,,,,,,,,Image;StillImage,image/tif,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+,rb004,,,,Beef Barbecue,Nancy Smith,,,A recipe for beef barbecue,,,,,,,record,multiple,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+rb004,rb004a,rb004a.tif,,,,,,,,,,,,,,Image;StillImage,image/tif,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
+rb004,rb004b,rb004b.tif,,,,,,,,,,,,,,Image;StillImage,image/tif,eng,CC BY-NC-ND,https://creativecommons.org/licenses/by-nc-nd/4.0/
